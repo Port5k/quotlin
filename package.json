@@ -1,0 +1,10 @@
+{
+  "name": "quotlin-quote-app",
+  "version": "1",
+  "description": "A web app for accessing quotes from any category of your choice.",
+  "main": "app.js",
+  "repository": "https://github.com/portk5/quotlin",
+  "author": "Adekunle Adedokun",
+  "license": "MIT",
+  "private": false
+}
